@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"You Are Forgetting How Far You've Come"
 Use the left arrow to go back!
